@@ -1,2 +1,2 @@
 # nihon
-Voyage au Japon
+Nihonryokō - 日本旅行
