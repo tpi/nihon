@@ -1,7 +1,7 @@
 ---
 title: 20200419 - Hiroshima
 created: '2020-01-25T21:30:20.654Z'
-modified: '2020-01-25T23:26:11.895Z'
+modified: '2020-04-19T13:34:49.710Z'
 ---
 
 # 20200419 - Hiroshima
@@ -12,6 +12,10 @@ category: Voyages
 tags: Japon
 author: tpi
 
+# Todo
+- Reprendre toutes les dates
+- À voir, à faire à partir d'Hiroshima
+- Restos partout
 
 ## Arrivée le jeudi 09/04/2020 à 12h15
 
